@@ -5,3 +5,4 @@ main{max-width:720px;margin:0 auto;padding:48px 20px 64px}h1{font-size:2rem;lett
 h2{font-size:1.15rem;margin:32px 0 8px}p,li{color:var(--fg)}.muted{color:var(--muted)}a{color:var(--accent)}
 .card{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:20px 22px;margin:20px 0}
 nav{display:flex;gap:16px;margin-bottom:28px;font-weight:600}
+.brand{display:inline-block;margin:0 0 18px}.brand img{height:64px;width:auto;display:block}
